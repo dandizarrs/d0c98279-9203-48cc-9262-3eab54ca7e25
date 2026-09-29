@@ -1,0 +1,6 @@
+1790704994s 1 https://dandiarchive.s3.amazonaws.com/zarr/d0c98279-9203-48cc-9262-3eab54ca7e25/processing/VISp_4/dff_timeseries/dff_timeseries/rois/0?versionId=Y1k7gYlGfKYKkI2v3CTBPCslUrWhZnzD
+1790704994s 1 https://api.dandiarchive.org/api/zarr/d0c98279-9203-48cc-9262-3eab54ca7e25/files?prefix=processing%2FVISp_4%2Fdff_timeseries%2Fdff_timeseries%2Frois%2F0&download=true
+1790704995s 1 https://dandiarchive.s3.amazonaws.com/zarr/d0c98279-9203-48cc-9262-3eab54ca7e25/processing/VISp_4/image_segmentation/roi_table/id/0?versionId=uQ5wmuolNaVq5GrBWnUZ0ZPk40gY1jv5
+1790704995s 1 https://api.dandiarchive.org/api/zarr/d0c98279-9203-48cc-9262-3eab54ca7e25/files?prefix=processing%2FVISp_4%2Fimage_segmentation%2Froi_table%2Fid%2F0&download=true
+1790705050s 1 https://dandiarchive.s3.amazonaws.com/zarr/d0c98279-9203-48cc-9262-3eab54ca7e25/processing/transcriptomics/genes/id/0?versionId=sIipT7lgxZqzprl16tjhdS_nH0JIv9bV
+1790705050s 1 https://api.dandiarchive.org/api/zarr/d0c98279-9203-48cc-9262-3eab54ca7e25/files?prefix=processing%2Ftranscriptomics%2Fgenes%2Fid%2F0&download=true
